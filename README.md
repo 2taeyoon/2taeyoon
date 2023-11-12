@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=150&section=header&text=Graphic Designer, Web Publisher, Web Front-end&fontSize=32" />
+<header style="width: 100vw; height: 150px; background-color: #fff; display:flex; align-items: center; justify-content: center; font-size: 32px; color: #171717; font-weight: bold;">Designer, Web Publisher, Web Front-end</header>
 
 ## 🚀SKILL STACK🚀
 
