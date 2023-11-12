@@ -1,4 +1,4 @@
-# Designer, Web Publisher, Web Front-end
+# Graphic Designer, Web Publisher, Web Front-end
 
 ### 🚀SKILL STACK🚀
 
