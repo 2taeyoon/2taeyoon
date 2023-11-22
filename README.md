@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/webpack-4285F4?style=for-the-badge&logo=webpack&logoColor=white"/>
 </div>
 
 #### <div style="color: #171717;">GRAPHIC SKILL</div>
@@ -28,6 +26,9 @@
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/babel-c7a800?style=for-the-badge&logo=babel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/webpack-4285F4?style=for-the-badge&logo=webpack&logoColor=white"/>
 </div>
 <br/>
 
