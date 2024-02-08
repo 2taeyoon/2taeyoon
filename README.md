@@ -1,4 +1,4 @@
-# <div style="color: #171717;">Graphic Designer, Web Publisher</div>
+# <div style="color: #171717;">Graphic Designer</div>
 
 ### <div style="color: #171717;">🚀SKILL STACK🚀</div>
 
