@@ -36,6 +36,6 @@
 ***
 
 ### <div style="color: #171717;">🔥Streak States🔥</div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=2taeyoon&theme=dark&hide_border=true&locale=ko&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2taeyoon&show_icons=true&theme=dracula)
 
 <!-- https://hulrud.tistory.com/3 -->
