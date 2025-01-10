@@ -36,6 +36,6 @@
 ***
 
 ### <div style="color: #171717;">🔥Streak States🔥</div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2taeyoon&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!-- https://hulrud.tistory.com/3 -->
