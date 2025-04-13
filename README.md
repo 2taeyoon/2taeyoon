@@ -52,10 +52,14 @@
     <img src="https://img.shields.io/badge/vpdlvj90@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+<br/>
 
 ### <div align="center">🔥Streak States🔥</div>
-<div align="center" style="display: flex; flex-direction: column;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2taeyoon&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
 	<a href="https://git.io/streak-stats">
 		<img src="https://streak-stats.demolab.com?user=2taeyoon&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CFri%2CSat" alt="GitHub Streak" />
 	</a>
