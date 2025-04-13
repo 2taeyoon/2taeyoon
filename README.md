@@ -24,8 +24,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
   <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo"/>
+  <img src="https://img.shields.io/badge/cursor-2C2C32?style=for-the-badge&logo"/>
 </div>
 <br/>
 
@@ -37,9 +43,18 @@
 </div>
 <br/>
 
-### <div align="center">🔥Streak States🔥</div>
-
+### <div align="center">📩Contact📩</div>
 <div align="center">
+  <a href="https://2taeyoon.com">
+    <img src="https://img.shields.io/badge/blog-1d55aa?style=for-the-badge&logo" />
+  </a>
+  <a href="mailto:vpdlvj90@naver.com">
+    <img src="https://img.shields.io/badge/vpdlvj90@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
+### <div align="center">🔥Streak States🔥</div>
+<div align="center" style="display: flex; flex-direction: column;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2taeyoon&layout=compact&theme=dark&hide_border=true" />
 	<a href="https://git.io/streak-stats">
 		<img src="https://streak-stats.demolab.com?user=2taeyoon&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CFri%2CSat" alt="GitHub Streak" />
