@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo"/>
   <img src="https://img.shields.io/badge/cursor-2C2C32?style=for-the-badge&logo"/>
   <img src="https://img.shields.io/badge/antigravity-2C2C32?style=for-the-badge&logo"/>
+  <img src="https://img.shields.io/badge/opencode-2C2C32?style=for-the-badge&logo"/>
 </div>
 <br/>
 
