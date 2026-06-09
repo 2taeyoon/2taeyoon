@@ -18,7 +18,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=typescript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/webpack-4285F4?style=for-the-badge&logo=webpack&logoColor=white"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -48,7 +47,6 @@
   <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo"/>
   <img src="https://img.shields.io/badge/cursor-2C2C32?style=for-the-badge&logo"/>
   <img src="https://img.shields.io/badge/antigravity-2C2C32?style=for-the-badge&logo"/>
-  <img src="https://img.shields.io/badge/opencode-2C2C32?style=for-the-badge&logo"/>
 </div>
 <br/>
 
