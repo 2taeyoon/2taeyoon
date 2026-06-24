@@ -52,7 +52,7 @@
 
 ### <div align="center">📩Contact📩</div>
 <div align="center">
-  <a href="https://2taeyoon.com">
+  <a href="https://2taeyoon.com/blog">
     <img src="https://img.shields.io/badge/blog-1d55aa?style=for-the-badge&logo" />
   </a>
   <a href="mailto:vpdlvj90@naver.com">
