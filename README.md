@@ -7,7 +7,7 @@
 </div>
 <br/>
 
-### <div align="center">✨ FrontEnd Stack ✨</div>
+### <div align="center">✨ Frontend Stack ✨</div>
 <div align="center">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,11 +23,10 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 
-### <div align="center">⚙️ BackEnd Stack ⚙️</div>
+### <div align="center">⚙️ Backend Stack ⚙️</div>
 <div align="center">
 	<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-	<img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-	<img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=ffffff" />
+	<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
 </div>
 <div align="center">
