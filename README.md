@@ -53,9 +53,6 @@
   <a href="mailto:vpdlvj90@naver.com">
     <img src="https://img.shields.io/badge/vpdlvj90@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
-  <a href="https://2taeyoon.com/blog">
-    <img src="https://img.shields.io/badge/blog-1d55aa?style=for-the-badge&logo" />
-  </a>
 </div>
 <br/>
 
