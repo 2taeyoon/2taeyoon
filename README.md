@@ -45,17 +45,16 @@
 <div align="center">
   <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo"/>
   <img src="https://img.shields.io/badge/cursor-2C2C32?style=for-the-badge&logo"/>
-  <img src="https://img.shields.io/badge/antigravity-2C2C32?style=for-the-badge&logo"/>
 </div>
 <br/>
 
 ### <div align="center">📩Contact📩</div>
 <div align="center">
-  <a href="https://2taeyoon.com/blog">
-    <img src="https://img.shields.io/badge/blog-1d55aa?style=for-the-badge&logo" />
-  </a>
   <a href="mailto:vpdlvj90@naver.com">
     <img src="https://img.shields.io/badge/vpdlvj90@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+  <a href="https://2taeyoon.com/blog">
+    <img src="https://img.shields.io/badge/blog-1d55aa?style=for-the-badge&logo" />
   </a>
 </div>
 <br/>
