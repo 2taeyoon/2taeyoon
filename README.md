@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/tailwind CSS-06b6d4?style=for-the-badge&logo=tailwindCSS&logoColor=white"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=typescript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/webpack-4285F4?style=for-the-badge&logo=webpack&logoColor=white"/>
