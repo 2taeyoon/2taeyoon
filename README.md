@@ -1,3 +1,4 @@
+<!--
 ### <div align="center">🎨Design Tools🎨</div>
 <div align="center">
 	<img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo"/>
@@ -6,8 +7,9 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 <br/>
+-->
 
-### <div align="center">✨ Frontend Stack ✨</div>
+### <div align="center">🧑🏻‍🦱Frontend🧑🏻‍🦱</div>
 <div align="center">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,7 +25,7 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 
-### <div align="center">⚙️ Backend Stack ⚙️</div>
+### <div align="center">🔙Backend🔙</div>
 <div align="center">
 	<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 	<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,7 +38,7 @@
 </div>
 <br/>
 
-### <div align="center">⚒️ Dev Tools ⚒️</div>
+### <div align="center">⚙️Dev Tools⚙️</div>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -56,7 +58,7 @@
 </div>
 <br/>
 
-### <div align="center">🔥Streak States🔥</div>
+### <div align="center">🔥States🔥</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2taeyoon&layout=compact&theme=dark&hide_border=true" />
