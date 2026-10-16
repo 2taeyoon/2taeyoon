@@ -45,25 +45,25 @@
 </div>
 <br/>
 
-### <div align="center">📩Contact📩</div>
-<div align="center">
+### <div>📩Contact📩</div>
+<div>
   <a href="mailto:vpdlvj90@naver.com">
     <img src="https://img.shields.io/badge/vpdlvj90@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </div>
 <br/>
 
-### <div align="center">🔥States🔥</div>
+### <div>🔥States🔥</div>
 <!--
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2taeyoon&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=2taeyoon&show_icons=true&theme=dark&hide_border=true" />
 </div>
 -->
-<div align="center">
+<div>
 	<a href="https://git.io/streak-stats">
 		<img src="https://streak-stats.demolab.com?user=2taeyoon&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" />
 	</a>
