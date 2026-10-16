@@ -9,69 +9,39 @@
 <br/>
 -->
 
-### <div align="center">🧑Frontend🧑</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwind CSS-06b6d4?style=for-the-badge&logo=tailwindCSS&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/webpack-4285F4?style=for-the-badge&logo=webpack&logoColor=white"/>
+### <div>🧑Frontend🧑</div>
+<div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/tailwind CSS-06b6d4?style=for-the-badge&logo=tailwindCSS&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/webpack-4285F4?style=for-the-badge&logo=webpack&logoColor=white"/>
 </div>
 <br/>
 
-### <div align="center">🔙Backend🔙</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+### <div>🔙Backend🔙</div>
+<div>
+  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 <br/>
 
-### <div align="center">🗄️Database🗄️</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+### <div>🗄️Database🗄️</div>
+<div>
+  <img src="https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff" /> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
 <br/>
 
-### <div align="center">🤖AI / LLM🤖</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/llm-2C2C32?style=for-the-badge&logo"/>
-  <img src="https://img.shields.io/badge/rag-2C2C32?style=for-the-badge&logo"/>
-  <img src="https://img.shields.io/badge/embedding-2C2C32?style=for-the-badge&logo"/>
-  <img src="https://img.shields.io/badge/vector%20search-2C2C32?style=for-the-badge&logo"/>
-  <img src="https://img.shields.io/badge/mcp-2C2C32?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/deep%20learning-2C2C32?style=for-the-badge&logo"/>
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+### <div>🤖AI / LLM🤖</div>
+<div>
+  <img src="https://img.shields.io/badge/llm-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/rag-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/embedding-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/vector%20search-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/mcp-2C2C32?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/> <img src="https://img.shields.io/badge/deep%20learning-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </div>
 <br/>
 
-### <div align="center">☁️Infra / Monitoring☁️</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/zabbix-D40000?style=for-the-badge&logo"/>
+### <div>☁️Infra / Monitoring☁️</div>
+<div>
+  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/zabbix-D40000?style=for-the-badge&logo"/>
 </div>
 <br/>
 
-### <div align="center">⚙️Dev Tools⚙️</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo"/>
-  <img src="https://img.shields.io/badge/cursor-2C2C32?style=for-the-badge&logo"/>
+### <div>⚙️Dev Tools⚙️</div>
+<div>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/cursor-2C2C32?style=for-the-badge&logo"/>
 </div>
 <br/>
 
