@@ -50,8 +50,6 @@
   <img src="https://img.shields.io/badge/mcp-2C2C32?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/openai%20api-412991?style=for-the-badge&logo"/>
   <img src="https://img.shields.io/badge/deep%20learning-2C2C32?style=for-the-badge&logo"/>
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </div>
