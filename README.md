@@ -30,11 +30,30 @@
 	<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 	<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff" />
+	<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+	<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   	<img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
 	<img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+	<img src="https://img.shields.io/badge/zabbix-D40000?style=for-the-badge&logo"/>
+</div>
+<br/>
+
+### <div align="center">🤖AI / LLM🤖</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/llm-2C2C32?style=for-the-badge&logo"/>
+  <img src="https://img.shields.io/badge/rag-2C2C32?style=for-the-badge&logo"/>
+  <img src="https://img.shields.io/badge/embedding-2C2C32?style=for-the-badge&logo"/>
+  <img src="https://img.shields.io/badge/vector%20search-2C2C32?style=for-the-badge&logo"/>
+  <img src="https://img.shields.io/badge/mcp-2C2C32?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/openai%20api-412991?style=for-the-badge&logo"/>
+  <img src="https://img.shields.io/badge/deep%20learning-2C2C32?style=for-the-badge&logo"/>
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </div>
 <br/>
 
