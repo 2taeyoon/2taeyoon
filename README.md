@@ -41,7 +41,7 @@
 
 ### <div>⚙️Dev Tools⚙️</div>
 <div>
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/cursor-2C2C32?style=for-the-badge&logo"/>
+  <img src="https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/> <img src="https://img.shields.io/badge/cursor-2C2C32?style=for-the-badge&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
 <br/>
 
