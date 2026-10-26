@@ -29,7 +29,7 @@
 
 ### <div>🤖AI / LLM🤖</div>
 <div>
-  <img src="https://img.shields.io/badge/llm-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/rag-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/embedding-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/vector%20search-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/mcp-2C2C32?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/> <img src="https://img.shields.io/badge/deep%20learning-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/llm-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/rag-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/embedding-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/vector%20search-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/langchain-2C2C32?style=for-the-badge&logo=langchain&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/langgraph-2C2C32?style=for-the-badge&logo=langgraph&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/mcp-2C2C32?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/> <img src="https://img.shields.io/badge/deep%20learning-2C2C32?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </div>
 <br/>
 
