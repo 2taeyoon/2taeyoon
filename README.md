@@ -17,19 +17,19 @@
 
 ### <div>🔙Backend🔙</div>
 <div>
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/php%20(mvc)-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white"/>
 </div>
 <br/>
 
 ### <div>🗄️Database🗄️</div>
 <div>
-<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff" /> <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/mongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff" /> <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
 <br/>
 
 ### <div>🤖AI / LLM🤖</div>
 <div>
-  <img src="https://img.shields.io/badge/llm%20api-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/rag-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/hybrid%20search-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/embedding-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/vector%20search-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/langchain-45A1FC?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/langgraph-45A1FC?style=for-the-badge&logo=langgraph&logoColor=white"/> <img src="https://img.shields.io/badge/mcp-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/> <img src="https://img.shields.io/badge/a2a-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/deep%20learning-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/llm%20api-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/rag-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/embedding-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/vector%20search-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/hybrid%20search-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/langchain-45A1FC?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/langgraph-45A1FC?style=for-the-badge&logo=langgraph&logoColor=white"/> <img src="https://img.shields.io/badge/mcp-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/> <img src="https://img.shields.io/badge/a2a-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </div>
 <br/>
 
