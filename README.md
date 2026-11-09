@@ -47,13 +47,13 @@
 
 ### <div>⚙️Dev Tools⚙️</div>
 <div>
-  <img src="https://img.shields.io/badge/claude%20code-D97757?style=for-the-badge&logo=claude&logoColor=white"/> <img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white"/> <img src="https://img.shields.io/badge/miniforge-000000?style=for-the-badge&logo=condaforge&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/claude%20code-D97757?style=for-the-badge&logo=claude&logoColor=white"/> <img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white"/> <img src="https://img.shields.io/badge/miniforge-000000?style=for-the-badge&logo=condaforge&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
 <br/>
 
 ### <div>🤝Collaboration🤝</div>
 <div>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 <br/>
 
