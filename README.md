@@ -29,7 +29,7 @@
 
 ### <div>🤖AI / LLM🤖</div>
 <div>
-  <img src="https://img.shields.io/badge/llm%20api-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/rag-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/embedding-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/vector%20search-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/hybrid%20search-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/langchain-45A1FC?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/langgraph-45A1FC?style=for-the-badge&logo=langgraph&logoColor=white"/> <img src="https://img.shields.io/badge/mcp-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/> <img src="https://img.shields.io/badge/a2a-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/onnx%20runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+ <img src="https://img.shields.io/badge/rag-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/embedding-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/vector%20search-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/hybrid%20search-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/langchain-45A1FC?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/langgraph-45A1FC?style=for-the-badge&logo=langgraph&logoColor=white"/> <img src="https://img.shields.io/badge/mcp-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/> <img src="https://img.shields.io/badge/a2a-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/onnx%20runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
 </div>
 <br/>
 
@@ -45,9 +45,15 @@
 </div>
 <br/>
 
-### <div>⚙️Dev Tools / Collaboration⚙️</div>
+### <div>⚙️Dev Tools⚙️</div>
 <div>
-  <img src="https://img.shields.io/badge/claude%20code-D97757?style=for-the-badge&logo=claude&logoColor=white"/> <img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white"/> <img src="https://img.shields.io/badge/miniforge-000000?style=for-the-badge&logo=condaforge&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/claude%20code-D97757?style=for-the-badge&logo=claude&logoColor=white"/> <img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white"/> <img src="https://img.shields.io/badge/miniforge-000000?style=for-the-badge&logo=condaforge&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</div>
+<br/>
+
+### <div>🤝Collaboration🤝</div>
+<div>
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 <br/>
 
